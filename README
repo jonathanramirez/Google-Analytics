@@ -1,0 +1,12 @@
+How to integrate your application google iphone analytics
+
+
+Include
+    Drag GANTracker.h and libGoogleAnalytics.a from the SDK's Library directory into your new project.
+    Include the CFNetwork.framework in your project and link against libsqlite3.0.dylib.
+
+
+
+the records in Google Analytics aplciacion deliver you "Account ID" which that you used to use then the iphone
+Account ID:	UA-xxxxxxxx
+
