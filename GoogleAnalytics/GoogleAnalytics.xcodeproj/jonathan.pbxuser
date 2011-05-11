@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GoogleAnalyticsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 712}}";
+			sepNavSelRange = "{190, 11}";
+			sepNavVisRange = "{0, 869}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GoogleAnalyticsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1625}}";
+			sepNavSelRange = "{239, 31}";
+			sepNavVisRange = "{0, 2074}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GoogleAnalytics */ = {
+		activeExec = 0;
+		executables = (
+			ABE3AAEB13732320009AA98B /* GoogleAnalytics */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ABE3AAEB13732320009AA98B /* GoogleAnalytics */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GoogleAnalytics */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GoogleAnalytics */,
+		);
+		codeSenseManager = ABE3ABA71373232E009AA98B /* Code sense */;
+		executables = (
+			ABE3AAEB13732320009AA98B /* GoogleAnalytics */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326850145;
+			PBXWorkspaceStateSaveDate = 326850145;
+		};
+		perUserProjectItems = {
+			AB6EBC6F1374960900BC0706 /* PBXTextBookmark */ = AB6EBC6F1374960900BC0706 /* PBXTextBookmark */;
+			AB6EBC701374960900BC0706 /* PBXBookmark */ = AB6EBC701374960900BC0706 /* PBXBookmark */;
+			AB6EBC711374960900BC0706 /* PBXBookmark */ = AB6EBC711374960900BC0706 /* PBXBookmark */;
+			AB6EBC721374960900BC0706 /* PBXBookmark */ = AB6EBC721374960900BC0706 /* PBXBookmark */;
+			AB6EBC731374960900BC0706 /* PBXBookmark */ = AB6EBC731374960900BC0706 /* PBXBookmark */;
+			AB6EBC741374960900BC0706 /* PBXBookmark */ = AB6EBC741374960900BC0706 /* PBXBookmark */;
+			AB6EBC751374960900BC0706 /* PBXBookmark */ = AB6EBC751374960900BC0706 /* PBXBookmark */;
+			AB6EBC761374960900BC0706 /* PBXBookmark */ = AB6EBC761374960900BC0706 /* PBXBookmark */;
+			AB6EBC771374960900BC0706 /* PBXBookmark */ = AB6EBC771374960900BC0706 /* PBXBookmark */;
+			AB6EBC781374960900BC0706 /* PBXTextBookmark */ = AB6EBC781374960900BC0706 /* PBXTextBookmark */;
+			AB6EBC791374960900BC0706 /* PBXTextBookmark */ = AB6EBC791374960900BC0706 /* PBXTextBookmark */;
+			ABE3AC3213732A30009AA98B /* PBXTextBookmark */ = ABE3AC3213732A30009AA98B /* PBXTextBookmark */;
+			ABE3AC6913732E00009AA98B /* PlistBookmark */ = ABE3AC6913732E00009AA98B /* PlistBookmark */;
+			ABE8E5D5137B567400D4679A /* PBXTextBookmark */ = ABE8E5D5137B567400D4679A /* PBXTextBookmark */;
+			ABE8E5D6137B567400D4679A /* PBXTextBookmark */ = ABE8E5D6137B567400D4679A /* PBXTextBookmark */;
+			ABE8E5D7137B567400D4679A /* PBXTextBookmark */ = ABE8E5D7137B567400D4679A /* PBXTextBookmark */;
+			ABE8E5D8137B567400D4679A /* PBXTextBookmark */ = ABE8E5D8137B567400D4679A /* PBXTextBookmark */;
+			ABE8E5E4137B569000D4679A /* PBXTextBookmark */ = ABE8E5E4137B569000D4679A /* PBXTextBookmark */;
+		};
+		sourceControlManager = ABE3ABA61373232E009AA98B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 712}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRange = "{0, 412}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* GoogleAnalytics_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 712}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 199}";
+		};
+	};
+	AB6EBC6F1374960900BC0706 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABE3AC061373287F009AA98B /* RootViewController.m */;
+		name = "RootViewController.m: 34";
+		rLen = 0;
+		rLoc = 992;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 100;
+	};
+	AB6EBC701374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAF1373237D009AA98B /* Icon@2x.png */;
+	};
+	AB6EBC711374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAE1373237D009AA98B /* Icon.png */;
+	};
+	AB6EBC721374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAD1373237D009AA98B /* Icon-Small@2x.png */;
+	};
+	AB6EBC731374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAC1373237D009AA98B /* Icon-Small.png */;
+	};
+	AB6EBC741374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAB1373237D009AA98B /* Icon-Small-50.png */;
+	};
+	AB6EBC751374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABAA1373237D009AA98B /* Icon-72.png */;
+	};
+	AB6EBC761374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABA91373237D009AA98B /* Default@2x.png */;
+	};
+	AB6EBC771374960900BC0706 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ABE3ABA81373237D009AA98B /* Default.png */;
+	};
+	AB6EBC781374960900BC0706 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 0;
+	};
+	AB6EBC791374960900BC0706 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* GoogleAnalytics_Prefix.pch */;
+		name = "GoogleAnalytics_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	ABE3AAEB13732320009AA98B /* GoogleAnalytics */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GoogleAnalytics;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ABE3ABA61373232E009AA98B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ABE3ABA71373232E009AA98B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ABE3ABBC13732443009AA98B /* GANTracker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{227, 2050}";
+		};
+	};
+	ABE3ABFE13732756009AA98B /* Static.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 531}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	ABE3AC051373287F009AA98B /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 712}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	ABE3AC061373287F009AA98B /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1053}}";
+			sepNavSelRange = "{865, 0}";
+			sepNavVisRange = "{673, 1457}";
+		};
+	};
+	ABE3AC3213732A30009AA98B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABE3ABFE13732756009AA98B /* Static.h */;
+		name = "Static.h: 10";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	ABE3AC6913732E00009AA98B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GoogleAnalytics-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFiles,
+		);
+		name = "/Users/jonathan/DevelopmentiPhone/Xcode Development/public github/GoogleAnalytics/GoogleAnalytics-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	ABE8E5D5137B567400D4679A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABE3ABBC13732443009AA98B /* GANTracker.h */;
+		name = "GANTracker.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2050;
+		vrLoc = 227;
+	};
+	ABE8E5D6137B567400D4679A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GoogleAnalyticsAppDelegate.h */;
+		name = "GoogleAnalyticsAppDelegate.h: 9";
+		rLen = 11;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 0;
+	};
+	ABE8E5D7137B567400D4679A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GoogleAnalyticsAppDelegate.m */;
+		name = "GoogleAnalyticsAppDelegate.m: 10";
+		rLen = 31;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 2074;
+		vrLoc = 0;
+	};
+	ABE8E5D8137B567400D4679A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABE3AC051373287F009AA98B /* RootViewController.h */;
+		name = "RootViewController.h: 9";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	ABE8E5E4137B569000D4679A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABE3AC061373287F009AA98B /* RootViewController.m */;
+		name = "RootViewController.m: 29";
+		rLen = 0;
+		rLoc = 865;
+		rType = 0;
+		vrLen = 1457;
+		vrLoc = 673;
+	};
+}
