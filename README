@@ -10,3 +10,9 @@ Include
 the records in Google Analytics aplciacion deliver you "Account ID" which that you used to use then the iphone
 Account ID:	UA-xxxxxxxx
 
+
+Download the Google Analytics for Mobile Apps SDK
+
+http://code.google.com/mobile/analytics/download.html
+
+Drag GANTracker.h and libGoogleAnalytics.a To  GoogleAnalytics/Library/  and add into your project.
